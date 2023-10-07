@@ -1,5 +1,5 @@
 ## Actividad - Corte de control
-### Ingreso de registros universidad
+### Ingreso de registros universidad con C++
 
 Se desea ingresar las notas de los alumnos de una universidad. Se sabe que para cada registro de nota se tienen los siguientes datos:
 - Legajo (int)
