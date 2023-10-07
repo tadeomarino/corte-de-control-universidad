@@ -1,4 +1,4 @@
-# corte-de-control-universidad
+## Actividad - Corte de control - Ingreso de registros universidad
 
 Se desea ingresar las notas de los alumnos de una universidad. Se sabe que para cada registro de nota se tienen los siguientes datos:
 - Legajo (int)
